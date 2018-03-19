@@ -1,0 +1,67 @@
+h1 {
+	text-align: center;
+	line-height: 1.1;
+	font-size: 70px;
+	color: lightgrey;
+	text-shadow: -2px 0 steelblue, 0 2px steelblue, 2px 0 steelblue, 0 -2px steelblue;
+	background-image: url(https://images.unsplash.com/photo-1502359521992-f86fd62e12dd?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=dc4a91e9a81fa39fac61877045a3e875&auto=format&fit=crop&w=1650&q=80);
+	background-color: darkseagreen;
+	margin: 0;
+	font-weight: normal;
+	text-transform: uppercase;
+	padding: 20px 0;
+}
+
+table {
+	margin: auto;
+	color: steelblue;
+	border-color: steelblue;
+}
+
+body {
+	background-color: lemonchiffon;
+	background: #EDE574;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E1F5C4, #EDE574);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E1F5C4, #EDE574); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.stripe {
+	background-color: lightgrey;
+	height: 30px;
+	text-align: center;
+	color: black;
+	height: 30px;
+}
+
+a{
+	text-decoration: none;
+	border: none;
+	background-color: lightgrey;
+	text-transform: uppercase;
+	height: 100%;
+	font-weight: 700;
+	color: steelblue;
+	letter-spacing: 1px;
+	transition: all .3s;
+	font-size: 14px;
+}
+button {
+	border: none;
+	background-color: lightgrey;
+	text-transform: uppercase;
+	height: 100%;
+	font-weight: 700;
+	color: steelblue;
+	letter-spacing: 1px;
+	transition: all .3s;
+}
+
+.selected {
+	background-color: steelblue;
+	color: lightgrey;
+}
+
+.clicked {
+	text-decoration: line-through;
+}

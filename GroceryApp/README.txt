@@ -1,0 +1,5 @@
+Project Description:
+For the grocery app, I developed a website that consists of a home page and two grocery stores where you can add/delete grocery items to each respective list. Because the lists are stored on the browser's local storage, it will only persist as long as the browser isn't completely shut down. Additionally, my app does not allow for new grocery stores to be added because I do not have the back end template saved just yet.
+
+How to Run:
+In order to run, download all files and ensure that they are saved in the same workplace. From there, you have two choices to use the website. Option 1 is to double click the "HomePage.html" file and it should open up in your default browser. There you can interface with the website and see its full functionality. If that does not work, you can open up a blank page on google chrome and then drag the "HomePage.html" file onto that screen, and it should open it correctly.
